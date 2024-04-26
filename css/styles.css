@@ -24,6 +24,8 @@ h1{
     border: none; /* Optional: removes the border */
     padding: 10px 20px; /* Optional: adds some padding */
     cursor: pointer; /* Changes the cursor to a pointer to indicate it's clickable */
+	border-bottom: black 4px solid;
+	border-right: black 4px solid;
 }
 
 .button1:hover {
